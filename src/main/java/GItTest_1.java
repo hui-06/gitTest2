@@ -3,5 +3,6 @@ public class GItTest_1 {
         System.out.println("hello1");
         System.out.println("hello2");
         System.out.println("hot_fix hello3");
+        System.out.println("master hello4");
     }
 }
