@@ -6,5 +6,6 @@ public class GItTest_1 {
         System.out.println("master hello4");
         System.out.println("hot_fix hello4");
         System.out.println("hello5");
+        System.out.println("hello5");
     }
 }
